@@ -6,7 +6,7 @@ Every year thousands of job seekers are struggling to analyze the job market. Wh
 
 
 # How it works
-- Data is first collected using the an API that gives me raw data
+- Data is first collected using an API that gives me raw data
 - The data is then stored as raw data so it doesn't have to be re-collected multiple times
 - That raw data is then cleaned and analyzed
 - Finally the data is presented as a graph or any visualizer for the user
